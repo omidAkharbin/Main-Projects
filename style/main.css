@@ -1,0 +1,14 @@
+
+@font-face {
+   
+     font-family: "Dana";
+  
+    src: url("../assets/fonts/dana/dana-medium.eot") format("eot"),
+      url("../assets/fonts/dana/dana-medium.woff") format("woff"),
+      url("../assets/fonts/dana/dana-medium.woff2") format("woff2");
+    font-weight: normal;
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
